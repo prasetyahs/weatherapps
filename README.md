@@ -1,7 +1,8 @@
 # Weather Apps
 
-Tuliskan deskripsi proyek Anda di sini.
+Proyek ini adalah aplikasi mobile yang memanfaatkan layanan Firebase Authentication untuk mengelola proses otentikasi pengguna melalui nomor telepon, email, dan password email. Pengguna dapat dengan mudah masuk dan mengamankan akun mereka menggunakan berbagai metode otentikasi yang disediakan.
 
+Selain itu, aplikasi ini juga mengintegrasikan OpenWeatherMap API untuk memberikan informasi cuaca terkini kepada pengguna. Dengan memanfaatkan API ini, pengguna dapat melihat prakiraan cuaca terbaru untuk lokasi tertentu dan mengatur pemberitahuan cuaca untuk mendapatkan pembaruan langsung.
 ## Instalasi
 
 Langkah-langkah berikut ini akan membantu Anda untuk menginstal aplikasi mobile ini di mesin lokal Anda:
