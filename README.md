@@ -1,16 +1,21 @@
-# weather_apps
+# Weather Apps
 
-A new Flutter project.
+Tuliskan deskripsi proyek Anda di sini.
 
-## Getting Started
+## Instalasi
 
-This project is a starting point for a Flutter application.
+Langkah-langkah berikut ini akan membantu Anda untuk menginstal aplikasi mobile ini di mesin lokal Anda:
 
-A few resources to get you started if this is your first Flutter project:
+1. Pastikan Anda sudah menginstal Flutter. Jika belum, silakan ikuti panduan di [situs resmi Flutter](https://flutter.dev/docs/get-started/install) untuk menginstalnya.
+2. Lakukan `flutter pub get` di terminal untuk menginstal semua dependensi yang diperlukan.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Menjalankan Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Anda dapat menjalankan aplikasi ini di emulator atau perangkat fisik dengan langkah-langkah berikut:
+
+1. Pastikan emulator atau perangkat Anda terhubung.
+2. Jalankan perintah `flutter run` di terminal.
+
+## Informasi Tambahan
+
+Sebelum menjalankan aplikasi, pastikan Anda telah mengonfigurasi koneksi internet jika aplikasi memerlukannya.
