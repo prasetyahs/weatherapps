@@ -24,8 +24,6 @@ class DefaultFirebaseOptions {
         return android;
       case TargetPlatform.iOS:
         return ios;
-      case TargetPlatform.macOS:
-        return macos;
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -68,14 +66,5 @@ class DefaultFirebaseOptions {
     projectId: 'weatherapps-6cc4d',
     storageBucket: 'weatherapps-6cc4d.appspot.com',
     iosBundleId: 'com.phs.weatherApps',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAqT72_12mO9XkKkzQk6lK8WM10qJM4I6M',
-    appId: '1:178777477990:ios:6c8fa12bb3af3029d62ea7',
-    messagingSenderId: '178777477990',
-    projectId: 'weatherapps-6cc4d',
-    storageBucket: 'weatherapps-6cc4d.appspot.com',
-    iosBundleId: 'com.phs.weatherApps.RunnerTests',
   );
 }
