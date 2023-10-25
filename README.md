@@ -2,7 +2,7 @@
 
 This project is a mobile application that leverages the Firebase Authentication service to manage the user authentication process through phone numbers, email, and email passwords. Users can easily sign in and secure their accounts using various authentication methods provided.
 
-Additionally, this application integrates the OpenWeatherMap API to provide users with current weather information. By utilizing this API, users can view the latest weather forecasts for specific locations and set up weather notifications to receive real-time updates.
+Additionally, this application integrates the [OpenWeatherMap](https://openweathermap.org/) API to provide users with current weather information. By utilizing this API, users can view the latest weather forecasts for specific locations and set up weather notifications to receive real-time updates.
 ## Installation
 
 The following steps will help you to install this mobile application on your local machine:
