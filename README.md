@@ -4,6 +4,13 @@ This project is a mobile application that leverages the Firebase Authentication 
 
 Additionally, this application integrates the [OpenWeatherMap](https://openweathermap.org/) API to provide users with current weather information. By utilizing this API, users can view the latest weather forecasts for specific locations and set up weather notifications to receive real-time updates.
 
+## Firebase Setup
+#### Install the plugin by running the following command from the project root:
+     flutter pub add firebase_core
+#### Using the FlutterFire CLI
+     dart pub global activate flutterfire_cli
+     flutterfire configure
+     
 ## APK Release Download
 [Download Attachment](https://drive.google.com/file/d/1xSWsPoVYNvU4PAiaXDXrtFn-2AvV6CTB/view?usp=sharing)
 
